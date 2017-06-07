@@ -7,7 +7,7 @@ image: linkedin_blog_post_small.jpg
 ---
 
 I’ve spoken to a lot of recent grads and young professionals who don’t have a LinkedIn account and don’t see the need for one.  With Facebook, Instagram, Snapchat, and Twitter, why bother signing up for yet another social networking site?  LinkedIn is the largest professional networking tool in the world and if you haven’t already, there are three reasons you need to sign up:
-{{excerpt_separator}}
+{{ excerpt_separator }}
  
 1. Employers *will* Google you
 Like everything else, if we want to find out more about something or someone, we google it.  Would you rather have a potential employer come across Facebook photos of your latest drunken escapades or a professional online CV that you’ve created about yourself?  LinkedIn profiles usually rank higher than other information in search engines so it’s a great way to manage what employers read about you first.
