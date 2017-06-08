@@ -5,9 +5,9 @@ excerpt: |
   Test excerpt
 ---
 <div class="container-fluid text-center">
-  <h4 class="mt-4">Pricing</h4>
-  <p>Hello Future's pricing structure is designed to be affordable and accessible for our clients.  To achieve the best outcome, the services offered below are delivered face to face and for your convenience we come to you (aside from the CV Check which can be done via email).  The prices include the cost of travel within the North-West or Central Auckland service area.*</p>
-  <h6>Packages</h6>
+  <h4 class="my-4">Pricing</h4>
+  <p class="pb-5">Hello Future's pricing structure is designed to be affordable and accessible for our clients.  To achieve the best outcome, the services offered below are delivered face to face and for your convenience we come to you (aside from the CV Check which can be done via email).  The prices include the cost of travel within the North-West or Central Auckland service area.*</p>
+  <h6 class="mb-3">Packages</h6>
   <div class="card-deck">
     <div class="card service-card">
       <div class="card-block">
@@ -31,22 +31,24 @@ excerpt: |
       <div class="card-footer text-muted">$250</div>
     </div>
   </div>
-  <h6 class="mt-4">Individual services</h6>
-  <table class="table table-sm">
-    <thead>
-      <tr>
-        <th>Service</th>
-        <th>Price</th>
-      </tr>
-    </thead>
-    <tbody>
-      {% for service in site.data.services %}
+  <h6 class="mt-5 mb-4">Individual services</h6>
+  <div class="container">
+    <table class="table table-sm text-left">
+      <thead>
+        <tr>
+          <th>Service</th>
+          <th>Price</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for service in site.data.services %}
         <tr>
           <td>{{ service.name }}</td>
           <td>{{ service.cost }}</td>
         </tr>
-      {% endfor %}
-    </tbody>
-  </table>
-  <p>*Service area - 20km radius of Te Atatu Peninsula, Auckland. Outside of this area additional travel charges will apply.</p>
+        {% endfor %}
+      </tbody>
+    </table>
+  </div>
+  <p class="mt-5"><i>*Service area - 20km radius of Te Atatu Peninsula, Auckland. Outside of this area additional travel charges will apply.</i></p>
 </div>
