@@ -1,0 +1,15 @@
+.nav-item {
+  margin: 0 20px;
+}
+
+.navbar .container {
+  @include media-breakpoint-down(sm) {
+    width: 100%;
+  }
+}
+
+.at4-follow#at4-follow {
+  @include media-breakpoint-down(md) {
+    top: 74px !important;
+  }
+}
