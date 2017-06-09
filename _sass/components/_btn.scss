@@ -1,0 +1,4 @@
+.btn-hf {
+  @include button-variant($btn-primary-color, $hf-blue, $hf-blue);
+  cursor: pointer;
+}
