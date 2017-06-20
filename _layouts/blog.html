@@ -13,11 +13,17 @@
           {% include blog_menu.html %}
         </div>
         <div class="col-12 col-md-10">
-          <h1>{{ page.title }}</h1>
-          <p class="lead">{{ page.date | date: '%B %d, %Y' }}</p>
-          {% if include.post.image %}
-            <img class="card-img-top img-fluid" src="/assets/images/{{ include.post.image }}" alt="{{ include.post.title }}">
-          {% endif %}
+          <div class="row pt-4">
+            <div class="col-12 col-md-2">
+              {% if page.image %}
+              <img class="card-img-top img-fluid" src="/assets/images/{{ page.image }}" alt="{{ page.title }}">
+              {% endif %}
+            </div>
+            <div class="col-12 col-md-10">
+              <h1>{{ page.title }}</h1>
+              <p class="lead">{{ page.date | date: '%B %d, %Y' }}</p>
+            </div>
+          </div>
           {{ content }}
         </div>
       </div>
