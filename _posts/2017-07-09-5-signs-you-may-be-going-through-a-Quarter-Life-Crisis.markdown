@@ -15,7 +15,7 @@ Here are 5 signs you could be having a Quarter Life Crisis:
 
 1. You’re panicking that you haven’t done what you wanted to do by this age.  Remember when you were at high school and by 28 you planned to be CEO of a company, own your own home and be married with 2 kids? Hmmm...
 
-2. You’re starting to question the meaning of life.  Is it really just to work and pay bills until you’re old enough to retire?  There seems to be a disconnect between what you’re doing and what you really want to do with your life and the expectations you had growing up don’t seem to fitting with your reality.
+2. You’re starting to question the meaning of life.  Is it really just to work and pay bills until you’re old enough to retire?  There seems to be a disconnect between what you’re doing and what you really want to do with your life and the expectations you had growing up don’t seem to be fitting with your reality.
 
 3. All of a sudden you can do anything but you have no idea what you should be doing.  You can’t decide whether you should be travelling and seeing the world, or climbing the career ladder and saving for a house.  And you keep seeing what your friends are doing on social media which just adds to the pressure.
 
