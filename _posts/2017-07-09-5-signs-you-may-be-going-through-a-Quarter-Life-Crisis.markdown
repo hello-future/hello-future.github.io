@@ -3,7 +3,7 @@ layout: blog
 title:  "5 signs you may be going through a Quarter Life Crisis"
 date:   2017-07-09 21:15:06 +1200
 categories:career coaching
-image: qlcblog.jpg
+image: qlcblogsmall.jpg
 excerpt: |
   Most people have heard the term “mid-life crisis” but quarter life crisis is actually a thing, and it affects way more people than you may think.
 ---
