@@ -5,7 +5,7 @@ date:   2017-05-29 15:28:06 +1200
 categories: linkedin personal_brand
 image: linkedin_blog_post_small.jpg
 excerpt: |
-  Why you should have a LinkedIn account
+  I’ve spoken to a lot of recent grads and young professionals who don’t have a LinkedIn account and don’t see the need for one.  With Facebook, Instagram, Snapchat, and Twitter, why bother signing up for yet another social networking site?  LinkedIn is the largest professional networking tool in the world and if you haven’t already, there are three reasons you need to sign up:
 ---
 
 I’ve spoken to a lot of recent grads and young professionals who don’t have a LinkedIn account and don’t see the need for one.  With Facebook, Instagram, Snapchat, and Twitter, why bother signing up for yet another social networking site?  LinkedIn is the largest professional networking tool in the world and if you haven’t already, there are three reasons you need to sign up:
